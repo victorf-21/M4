@@ -1,0 +1,17 @@
+th{
+    background-color: rgb(177, 184, 167);
+}
+table{
+    position: center;
+    border: 2px solid black;
+
+}
+p{
+    color: blue;
+    text-align: left;
+}
+div.secondDiv{
+    position: center;
+    text-align: left;
+
+}
