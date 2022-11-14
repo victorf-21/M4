@@ -1,0 +1,34 @@
+<?xml version="1.0" encodign="UTF-8"?>
+ 
+<students>
+    <student type="student">
+           <name>victor</name>
+           <surname>fernandez</surname>
+           <email>18</email>
+           <dni>3297423764h</dni>
+    </student>
+    <student type="student">
+           <name>albert</name>
+           <surname>penades</surname>
+           <email>19</email>
+           <dni>570928437g</dni>
+    </student>
+    <student type="student">
+           <name>Gerard</name>
+           <surname>Hernandez</surname>
+           <email>13</email>
+           <dni>8743923865e</dni>
+    </student>
+    <student type="student">
+           <name>Terence</name>
+           <surname>Gonzalez</surname>
+           <email>23</email>
+           <dni>9647038740t</dni>
+    </student>
+    <student type="student">
+           <name>Matias</name>
+           <surname>Sasuke</surname>
+           <email>13</email>
+           <dni>548443088j</dni>
+    </student>
+</students>
