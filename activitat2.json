@@ -1,0 +1,40 @@
+{
+    "pc_componentes":
+    {
+    "device":
+    {
+        "name":"Matebook",
+        "company":"Huawei",
+        "inches":"13",
+        "stock":"150",
+        "price": 780
+    },
+       
+    "device2":
+    {
+        "name":"Titan",
+        "company":"Slimbook",
+        "inches":"15.6",
+        "stock":"50",
+        "price": 1949
+    },
+    
+    "device3":
+    {
+        "name":"Matepad",
+        "company":"Huawei",
+        "inches":"10.4",
+        "stock":"250",
+        "price": 180
+    },
+    
+    "device4":
+    {
+        "name":"Matepad",
+        "company":"Huawei",
+        "inches":"10.4",
+        "stock":"250",
+        "price": 180
+    }
+    }
+}
