@@ -1,0 +1,46 @@
+.cuadradoGrande{
+    
+    background-color: yellow;
+    border: 1px solid black;
+    position: absolute;
+    top: 40px;
+    left: 20px;
+    height: 120px;
+    width: 160px;
+    
+
+}
+
+.cuadradoPequeño{
+    background-color: blue;
+    border: 1px solid black;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    width: 40px;
+    height: 40px;
+    
+
+}
+
+.cuadradoGrande2{
+    background-color: green;
+    border: 1px solid black;
+    position: absolute;
+    top: 140px;
+    left: 100px;
+    width: 160px;
+    height: 120px;
+    
+}
+
+.cuadradoPequeño2{
+    background-color: red;
+    border: 1px solid black;
+    position: relative;
+    top: 70px;
+    left: 100px;
+    width: 40px;
+    height: 40px;
+   
+}
